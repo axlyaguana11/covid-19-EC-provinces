@@ -14,8 +14,10 @@ to enhance their policies.
 *Soon the article for this project will be available and shared here.*
 *Further improvements in the structure of this project will be implemented as well*
 
-If you liked this project, don't forget to star or fork. ⭐
-If you need more information, feel free to [contact me](mailto:axl9809@gmail.com).
+## Data 
+
+Data were extracted from [Ecuacovid](https://github.com/andrab/ecuacovid).
+
 
 Project Organization
 ------------
@@ -67,5 +69,8 @@ Project Organization
 
 
 --------
+
+If you liked this project, don't forget to star or fork. ⭐
+If you need more information, feel free to [contact me](mailto:axl9809@gmail.com).
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
